@@ -5,7 +5,7 @@ jobs:
   # Label of the runner job
   runner-job:
     # You must use a Linux environment when using service containers or container jobs
-    # A new to test the git action
+    # A new to test the git act
     runs-on: macos-latest
 
     # Service containers to run with `runner-job`
